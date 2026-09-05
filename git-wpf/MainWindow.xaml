@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock Text="Hi" Margin="30,34,0,0"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="30,82,300,218"/>
     </Grid>
 </Window>
