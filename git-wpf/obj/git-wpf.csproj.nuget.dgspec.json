@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf\\git-wpf\\git-wpf.csproj": {}
+    "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf-2\\git-wpf\\git-wpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf\\git-wpf\\git-wpf.csproj": {
+    "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf-2\\git-wpf\\git-wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf\\git-wpf\\git-wpf.csproj",
+        "projectUniqueName": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf-2\\git-wpf\\git-wpf.csproj",
         "projectName": "git-wpf",
-        "projectPath": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf\\git-wpf\\git-wpf.csproj",
+        "projectPath": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf-2\\git-wpf\\git-wpf.csproj",
         "packagesPath": "C:\\Users\\in321-11-2025-cm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf\\git-wpf\\obj\\",
+        "outputPath": "C:\\Users\\in321-11-2025-cm\\Desktop\\git-project\\git-wpf-2\\git-wpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

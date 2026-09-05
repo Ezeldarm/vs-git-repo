@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("git-wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e6b255aba8a45611289084edfec09b68c8ed0cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e900617539aca7ce65302cf9651a88c43e2684")]
 [assembly: System.Reflection.AssemblyProductAttribute("git-wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("git-wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
